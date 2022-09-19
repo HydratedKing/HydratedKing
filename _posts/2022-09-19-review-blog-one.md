@@ -1,7 +1,7 @@
 ## Summary
 The Putler Project is a DH project which offers ways to access Hester Putler’s poetry. The Pulter Project website uses various resources, including explanatory materials, and two ways to access Pulter's poetry, which are offered in amplified and elemental versions. 
 
-According to the website, the elemental versions “deliberately pare-down modernizations with minimal notes,” and the amplified versions foreground different aspects of Pulter’s verse. This project aims to bring light to the works of Hester Pulter, who has seen a vast majority of their work go unnoticed. 
+According to the website, the elemental versions “deliberately pare-down modernizations with minimal notes,” and the amplified versions "foreground different aspects of Pulter’s verse." This project aims to bring light to the works of Hester Pulter, who has seen a vast majority of their work go unnoticed. 
 
 ## Design
 
@@ -25,9 +25,9 @@ The project does an excellent job of utilizing innovation and technology to tran
 The project does a great job of making sure to give credit to its creators. In the “Who” section of the website, dozens of names are displayed along with their roles and alma maters. The leading forces behind the creation of the project are Wendy Wall and Leah Knight, who come from Northwestern University and Brock University respectfully. 
 
 ## Findings/Usability 
-The links provided to me on the front page (Preface, Poems, and Discoveries) were beneficial in my navigation of the site. Two links (Preface & Discoveries) provided pop-up menus that allowed me to quickly navigate to other site areas and provided additional information about what it entailed. The Poems link took me straight to the hundreds of poems that are seemingly the foundation of the project.
+The links provided to me on the front page (Preface, Poems, and Discoveries) were beneficial in my navigation of the site. Two links (Preface & Discoveries) provided pop-up menus that allowed me to quickly navigate to other site areas and provided additional information about what it entailed. The Poems link took me straight to the 120 poems that are seemingly the foundation of the project.
 
-The tabs within the Poems are laid out neatly and allow the user to easily click through and access the bountiful information offered by the site. The site can be challenging to navigate through as some tabs require extra steps to access the information you want to see. For example, when you click the manuscript tab, a small icon appears on the left 
+The tabs within the Poems are laid out neatly and allow the user to easily click through and access the bountiful information offered by the site. The site can be challenging to navigate as some tabs require extra steps to access the information you want to see. For example, when you click the manuscript tab, a small icon appears on the left 
 side of the screen. You must locate and click this icon before accessing the manuscript. I think it would be helpful if this extra step was removed and the manuscript simply popped on the screen when the tab was clicked, as the small icon can go unnoticed. 
 
 ![Alt Text](https://hydratedking.github.io/HydratedKing/images/Eclipsepoem.png)
