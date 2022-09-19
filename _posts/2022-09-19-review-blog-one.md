@@ -16,6 +16,8 @@ The elemental version of the poem highlights certain words within the poem and g
 
 ![Alt Text](https://hydratedking.github.io/HydratedKing/images/Elemental.png)
 
+![Alt Text](https://hydratedking.github.io/HydratedKing/images/Amplified.png)
+
 ## Relevance 
 The project does an excellent job of utilizing innovation and technology to translate Pulter's works in an interactive and digestible way. The project stands out because it attempts to show the intricacy of Pulter's poetics and the opportunities provided by academic editing in the digital era. The Pulter Project aims to make readers aware of the frequently hidden choices that shape poetry and poets rather than simply presenting the finished product without context.
 
@@ -27,6 +29,8 @@ The links provided to me on the front page (Preface, Poems, and Discoveries) wer
 
 The tabs within the Poems are laid out neatly and allow the user to easily click through and access the bountiful information offered by the site. The site can be challenging to navigate through as some tabs require extra steps to access the information you want to see. For example, when you click the manuscript tab, a small icon appears on the left 
 side of the screen. You must locate and click this icon before accessing the manuscript. I think it would be helpful if this extra step was removed and the manuscript simply popped on the screen when the tab was clicked, as the small icon can go unnoticed. 
+
+![Alt Text](https://hydratedking.github.io/HydratedKing/images/Eclipsepoem.png)
 
 When accessing the side-by-side version of the poem, you are met with a screen that displays two versions of the poem, along with sources that give credit to its creators. You are also met with tabs on the top of the screen that allows you to toggle pages on and off and add additional pages to the ones already presented to you. If you add pages, the space can get cluttered and overwhelming as the new items just stack on top of each other. 
 
