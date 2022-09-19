@@ -14,6 +14,8 @@ The Project offers tons of information not only about the work of Hester Pulter 
 
 The elemental version of the poem highlights certain words within the poem and gives you their definitions. In contrast, the amplified versions take this a step further by showing the reader the definitions and critical notes that explain the purpose the word serves in the poem and other poems in the manuscript where the term can be found.
 
+![Alt Text](https://hydratedking.github.io/HydratedKing/images/Elemental.png)
+
 ## Relevance 
 The project does an excellent job of utilizing innovation and technology to translate Pulter's works in an interactive and digestible way. The project stands out because it attempts to show the intricacy of Pulter's poetics and the opportunities provided by academic editing in the digital era. The Pulter Project aims to make readers aware of the frequently hidden choices that shape poetry and poets rather than simply presenting the finished product without context.
 
