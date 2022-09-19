@@ -1,5 +1,5 @@
 ## Summary
-Putler Project is a DH project which offers ways to access Hester Putler’s poetry. The Pulter Project website uses various resources, including explanatory materials, and two ways to access Pulter's poetry, which are offered in amplified and elemental versions. 
+The Putler Project is a DH project which offers ways to access Hester Putler’s poetry. The Pulter Project website uses various resources, including explanatory materials, and two ways to access Pulter's poetry, which are offered in amplified and elemental versions. 
 
 According to the website, the elemental versions “deliberately pare-down modernizations with minimal notes,” and the amplified versions foreground different aspects of Pulter’s verse. This project aims to bring light to the works of Hester Pulter, who has seen a vast majority of their work go unnoticed. 
 
