@@ -1,5 +1,4 @@
 # Malcolm King
-# Review Blog
 
 # Project: The Pulter Project: Poet in the Making
 # Project directors: Wendy Wall and Leah Knight
