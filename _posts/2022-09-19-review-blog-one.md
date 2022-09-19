@@ -36,6 +36,8 @@ When accessing the side-by-side version of the poem, you are met with a screen t
 
 However, a feature not mentioned is that you can move the pages around slightly to allow a better view of everything you want to see. If you scroll down, a massive space at the bottom of the screen will enable you to place new icons that you have opened up. While this design is undoubtedly convenient, I think it would be beneficial if the tabs simply appeared in the empty spaces on the page instead of just stacking on top of one another. This would be much more efficient and less overwhelming for the reader as they read and navigate through new tabs. 
 
+![Alt Text](https://hydratedking.github.io/HydratedKing/images/sidebysideclutter.png)
+
 The project also seems to be much better optimized for desktop and computer devices than mobile ones. Trying to navigate the project on my phone proved difficult as several features were not present, including the click and drag component in the side-by-side portion of the poems. Also, the inability to zoom in on mobile devices makes it difficult to read some of the smaller text presented in the project.
 
 Overall The project is well-designed and executed. It does a remarkable job of converting a historical poet's works into an engaging and easily digestible form of media that not only enlightens users about the life of the said poet but also offers a window into the poetic process.
