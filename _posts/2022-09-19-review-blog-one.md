@@ -19,9 +19,9 @@ The Project offers tons of information not only about the work of Hester Pulter 
 
 The elemental version of the poem highlights certain words within the poem and gives you their definitions. In contrast, the amplified versions take this a step further by showing the reader the definitions and critical notes that explain the purpose the word serves in the poem and other poems in the manuscript where the term can be found.
 
-![Alt Text](https://hydratedking.github.io/HydratedKing/images/Elemental.png)
+![Highlighted word with definition](https://hydratedking.github.io/HydratedKing/images/Elemental.png)
 
-![Alt Text](https://hydratedking.github.io/HydratedKing/images/Amplified.png)
+![Highlighted word with definition and critical notes](https://hydratedking.github.io/HydratedKing/images/Amplified.png)
 
 ## Relevance 
 The project does an excellent job of utilizing innovation and technology to translate Pulter's works in an interactive and digestible way. The project stands out because it attempts to show the intricacy of Pulter's poetics and the opportunities provided by academic editing in the digital era. The Pulter Project aims to make readers aware of the frequently hidden choices that shape poetry and poets rather than simply presenting the finished product without context.
@@ -35,13 +35,13 @@ The links provided to me on the front page (Preface, Poems, and Discoveries) wer
 The tabs within the Poems are laid out neatly and allow the user to easily click through and access the bountiful information offered by the site. The site can be challenging to navigate as some tabs require extra steps to access the information you want to see. For example, when you click the manuscript tab, a small icon appears on the left 
 side of the screen. You must locate and click this icon before accessing the manuscript. I think it would be helpful if this extra step was removed and the manuscript simply popped on the screen when the tab was clicked, as the small icon can go unnoticed. 
 
-![Alt Text](https://hydratedking.github.io/HydratedKing/images/Eclipsepoem.png)
+![Poem Titled Eclipse](https://hydratedking.github.io/HydratedKing/images/Eclipsepoem.png)
 
 When accessing the side-by-side version of the poem, you are met with a screen that displays two versions of the poem, along with sources that give credit to its creators. You are also met with tabs on the top of the screen that allows you to toggle pages on and off and add additional pages to the ones already presented to you. If you add pages, the space can get cluttered and overwhelming as the new items just stack on top of each other. 
 
 However, a feature not mentioned is that you can move the pages around slightly to allow a better view of everything you want to see. If you scroll down, a massive space at the bottom of the screen will enable you to place new icons that you have opened up. While this design is undoubtedly convenient, I think it would be beneficial if the tabs simply appeared in the empty spaces on the page instead of just stacking on top of one another. This would be much more efficient and less overwhelming for the reader as they read and navigate through new tabs. 
 
-![Alt Text](https://hydratedking.github.io/HydratedKing/images/sidebysideclutter.png)
+![Cluttered Information on side by side screen](https://hydratedking.github.io/HydratedKing/images/sidebysideclutter.png)
 
 The project also seems to be much better optimized for desktop and computer devices than mobile ones. Trying to navigate the project on my phone proved difficult as several features were not present, including the click and drag component in the side-by-side portion of the poems. Also, the inability to zoom in on mobile devices makes it difficult to read some of the smaller text presented in the project.
 
