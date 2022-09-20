@@ -4,6 +4,7 @@
 # Project directors: Wendy Wall and Leah Knight
 # Project Url: [The Pulter Project: Poet in the Making](http://pulterproject.northwestern.edu/)
 
+
 ## Summary
 The Putler Project is a DH project which offers ways to access Hester Putler’s poetry. The Pulter Project website uses various resources, including explanatory materials, and two ways to access Pulter's poetry, which are offered in amplified and elemental versions. 
 
