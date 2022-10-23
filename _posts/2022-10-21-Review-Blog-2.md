@@ -40,7 +40,7 @@ The website's UI is incredibly user-friendly and fluid. You are immediately pres
 
 Additionally, When viewing the draft percentages of a team, you can click on a team and view every player that the team has drafted since 1989. You can also see the draft grades given by the site and the number of better players available when that player was selected. Below is an example of this from the Portland Trailblazers 
 
-![Portland Trailblazers player report card](https://hydratedking.github.io/HydratedKing/images/reportcards .png)
+![Portland Trailblazers player report card](https://hydratedking.github.io/HydratedKing/images/reportcards.png)
 
 Categorizing each player by the team that drafted them allows the page's design to stay clean and organized. However, it may be challenging to find certain players if you’re not already aware of what team they were drafted to. Adding a search bar that allows you to search for specific players would be helpful, especially if they were given a lower draft grade because they could be lost in a cluster of players on a team you didn’t know they were a part of. 
 
