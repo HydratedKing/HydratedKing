@@ -36,7 +36,7 @@ The site does not spend much time giving credit to the creators of the site beyo
 The term “we” is used constantly throughout this article, which you would expect considering there’s so much data and research that was put into making this project. I think it would be good to give credit to the other members who contributed to the research that went into this project instead of putting one name on the entire thing. 
 
 ## Findings/Usability 
-The website's UI is incredibly user-friendly and fluid. You are immediately presented with information that is presented to you in an interactive way. As previously stated, You can select any team in the league from a drop-down menu and examine who they selected in a specific draft class compared to the top players available when that player was selected. The players in the section are also color-coded to give the user context as to who’s considered the better player.
+The website's UI is incredibly user-friendly and fluid. Most of the information that is given is presented in an interactive way. As previously stated, you can select any team in the league from a drop-down menu and examine who they selected in a specific draft class compared to the top players available when that player was selected. The players in the section are also color-coded to give the user context as to who’s considered the better player.
 
 Additionally, When viewing the draft percentages of a team, you can click on a team and view every player that the team has drafted since 1989. You can also see the draft grades given by the site and the number of better players available when that player was selected. Below is an example of this from the Portland Trailblazers 
 
@@ -52,7 +52,7 @@ The site also seems to be very well-optimized for mobile devices. I found no iss
 
 ![Player comparisons on mobile device](https://hydratedking.github.io/HydratedKing/images/phoneview.jpg)
 
-Overall The Nba Redrafted 2.0 is a well-designed and executed project that serves as an improvement over its predecessor. It does a remarkable job of converting a large amount of analytical data into an engaging and easily digestible form of media that not only enlightens users about the difficulty of selecting good players in the draft but of the unpredictability of an NBA player's career. 
+Overall The Nba Redrafted 2.0 is a well-designed and executed project. It does a remarkable job of converting a large amount of analytical data into an engaging and easily digestible form of media that not only enlightens users about the difficulty of selecting good players in the draft but of the unpredictability of an NBA player's career. 
 
 Like my project, this site uses data and analytics to back its rankings. This site's application of analytical data will help me greatly in determining the best way to rank the players I select for my project. The site is very precise with the data they use to evaluate the teams and players in the article, and I believe it would be wise of me to follow their method of research.
 
