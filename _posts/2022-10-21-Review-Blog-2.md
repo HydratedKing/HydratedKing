@@ -19,7 +19,9 @@ As previously stated, a ton of analytical data is presented throughout this proj
 
 For example, per the data collected, the New Orleans Pelicans select the correct player 27.3% of the time, which is the highest percentage, and the Washington Wizards have selected the correct player 0.0% of the time, meaning since 1989, they have never selected the best player available to them during the draft.
 
-![Teams with the 5 highest percentages](https://hydratedking.github.io/HydratedKing/images/teampercentagehigh.png)
+![Teams with the highest percentages](https://hydratedking.github.io/HydratedKing/images/teampercentagehigh.png)
+
+![Teams with the lowest percentages](https://hydratedking.github.io/HydratedKing/images/teampercentagelow.png)
 
 The site also gives insight into what players should have been drafted over others. For example, in 2007, The Portland Trailblazers selected Greg Oden when they could have chosen Kevin Durant, who turned out to be the best player available. The site also provides a visual of each player when presenting this, which I think is a neat touch. 
 
