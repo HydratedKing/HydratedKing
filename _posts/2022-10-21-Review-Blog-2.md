@@ -4,7 +4,7 @@
 # Project directors: Russell Samora
 # Project Url: [The Nba Redrafted 2.0](https://pudding.cool/2022/02/redraft/)
 
-![2022 Nba Draft stage](https://hydratedking.github.io/HydratedKing/images/nbadraft.png)
+![2022 Nba Draft stage](https://hydratedking.github.io/HydratedKing/images/nbadraft.jpeg)
 
 ## Summary
 The Nba Redrafted 2.0 is a DH project that focuses on redrafting all NBA players that have been selected since 2017. The website uses data from other websites and four advanced statistics (VORP, Win Shares, RAPTOR WAR, and Wins Added) to create a rating for each player. Each statistic was modified, and an overall average was developed to create a master scale of a player's rating from 0 to 100. Ratings were based on a player's top five seasons to balance their prime years with their longevity.
