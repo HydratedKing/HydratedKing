@@ -46,7 +46,11 @@ Categorizing each player by the team that drafted them allows the page's design 
 
 As you move farther down the page, you are presented with a sliding tool that allows you to look at each draft class since 1989 and see how much each class has changed with the redraft. In this graphic, players are categorized by how many spots they moved up or down in their class in addition to being color coded. 
 
+![2017 Draft class with sliding tool](https://hydratedking.github.io/HydratedKing/images/.png)
+
 The site also seems to be very well-optimized for mobile devices. I found no issues trying to navigate the site on my phone. All the interactive features work the same, and the text is compressed into a vertical format that remains easy to read and understand. 
+
+![Player comparisons on mobile device](https://hydratedking.github.io/HydratedKing/images/phoneview.jpg)
 
 Overall The Nba Redrafted 2.0 is a well-designed and executed project that serves as an improvement over its predecessor. It does a remarkable job of converting a large amount of analytical data into an engaging and easily digestible form of media that not only enlightens users about the difficulty of selecting good players in the draft but of the unpredictability of an NBA player's career. 
 
