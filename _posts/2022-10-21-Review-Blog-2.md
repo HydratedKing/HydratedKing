@@ -25,7 +25,7 @@ For example, per the data collected, the New Orleans Pelicans select the correct
 
 The site also gives insight into what players should have been drafted over others. For example, in 2007, The Portland Trailblazers selected Greg Oden when they could have chosen Kevin Durant, who turned out to be the best player available. The site also provides a visual of each player when presenting this, which I think is a neat touch. 
 
-![Graphic comparing player taken vs best player available](https://hydratedking.github.io/HydratedKing/images/playercomp.png)
+![Graphic comparing player taken vs best player available](https://hydratedking.github.io/HydratedKing/images/playercomp)
 
 ## Relevance 
 The project does an excellent job of utilizing innovation and technology to break down data from NBA draft classes in a digestible way. In a perfect world, every NBA team would select the best player available every time they picked during the draft. However, the NBA draft is frequently just a big guessing game. This project gives context to the casual fan about how difficult it is to get it right during the draft and how easy it is for teams to make decisions they regret down the line.
