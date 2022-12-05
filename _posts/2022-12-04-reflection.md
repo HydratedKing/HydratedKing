@@ -1,6 +1,8 @@
 # Malcolm King
 # Project: Reflection
 
+![Reflection graphic](https://hydratedking.github.io/HydratedKing/images/reflection.png)
+
 ## My Takeaways 
 This course has greatly expanded my knowledge of the Digital Humanities (DH) sector. I had never heard of digital humanities before this course, much less had a clear understanding of what it was. Interestingly, one of my biggest takeaways from this class is that there isn't one definition for digital humanities; rather, a variety of interpretations from those that study the field. After studying the subject for a semester, I believe that the knowledge I have gained would allow me to define digital humanities as the process of integrating humanistic disciplines with aspects of the digital world.
 
