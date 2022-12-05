@@ -18,5 +18,5 @@ I enjoyed doing the second review blog more than I did the first. Between figuri
 ## Where I saw improvement 
 Improving my evaluation skills wasn’t something I expected coming into the course, but I can confidently say that I have improved in that area. I also think I have made strides as a writer as well. A big point of emphasis in our writing was conciseness. As a writer, I often find myself having a lot to say, especially when I'm being asked to give an observation or opinion. I think one of the most important skills I learned was avoiding jargon and emphasizing important and relevant information. This is crucial in a day and age where people aren’t looking to engage with long, drawn-out information. This is a skill that I’ve seen improvement in and am grateful was introduced. 
 
-##Conclusion
+## Conclusion
 In conclusion, I found this course to be very rewarding and insightful. Not only did I improve as a writer, but I also made strides as a digital humanist, and for that, I would consider this course a success.
